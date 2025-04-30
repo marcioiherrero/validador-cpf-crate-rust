@@ -1,0 +1,1 @@
+/home/marcio/1.myfiles/courses/dio/formacao-rust-fundamentals/crates/validador/target/debug/libvalidador.rlib: /home/marcio/1.myfiles/courses/dio/formacao-rust-fundamentals/crates/validador/src/lib.rs
