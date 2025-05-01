@@ -1,11 +1,13 @@
-** Instalação:
+Instalação:
+-----------
 No arquivo Cargo.toml de seu projeto, adicionar a dependência na seção: "dependencies" como abaixo:
 ```rust
 [dependencies]
 validador_cpf = "0.1.0"
 ```
 
-** Exemplo de utilização:
+Exemplo de utilização:
+----------------------
 ```rust
 use validador_cpf as vd;
 use std::io;
