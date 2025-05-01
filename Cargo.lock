@@ -4,4 +4,4 @@ version = 4
 
 [[package]]
 name = "validador_cpf_mih"
-version = "0.1.0"
+version = "0.1.1"

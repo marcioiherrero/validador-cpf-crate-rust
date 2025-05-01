@@ -1,6 +1,6 @@
 [package]
 name = "validador_cpf_mih"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Marcio I. Herrero <marcioiherrero@gmail.com>"]
 description = "Biblioteca de validador de número de CPF e CNPJ"
