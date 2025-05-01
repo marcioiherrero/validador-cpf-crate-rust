@@ -3,13 +3,13 @@ Instalação:
 No arquivo Cargo.toml de seu projeto, adicionar a dependência na seção: "dependencies" como abaixo:
 ```rust
 [dependencies]
-validador_cpf = "0.1.0"
+validador_cpf_mih = "0.1.0"
 ```
 
 Exemplo de utilização:
 ----------------------
 ```rust
-use validador_cpf as vd;
+use validador_cpf_mih as vd;
 use std::io;
 
 fn main() {
